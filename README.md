@@ -42,7 +42,7 @@ Search for “Forminator”
 
 Click Install Now → Activate
 
-3️⃣ Create CRUD Pages
+**3️⃣ Create CRUD Pages**
 🟢 Add Inventory Page
 
 Go to Forminator → Forms → Create New Form
@@ -68,7 +68,7 @@ Create a new WordPress Page named Add Inventory
 
 Paste the shortcode → Publish the page.
 
-👀 View Inventory Page
+**👀 View Inventory Page**
 
 Create a new page named View Inventory
 
@@ -81,7 +81,7 @@ This displays a table of all submitted inventory items.
 
 You can add “Edit” and “Delete” buttons using Forminator’s entry actions.
 
-✏️ Update Inventory Page
+**✏️ Update Inventory Page**
 
 Duplicate the Add Inventory form.
 
@@ -99,7 +99,7 @@ Enable Delete action in Forminator’s entry settings.
 
 When “Delete” is clicked, the item will be removed from the database and table.
 
-🧾 Project Structure
+**🧾 Project Structure**
 WordPress Inventory Management/
 │
 ├── wp-content/
@@ -114,7 +114,7 @@ WordPress Inventory Management/
 │
 └── README.md
 
-💡 How It Works
+**💡 How It Works**
 
 The Add Inventory page collects data via a Forminator form.
 
@@ -127,8 +127,8 @@ Each row includes Update and Delete buttons.
 The Update Inventory page allows editing of selected records.
 
 The Delete button permanently removes the record.
-**
-📸 Demo Flow**
+
+**📸 Demo Flow**
 
 User visits Add Inventory page and submits an item.
 
