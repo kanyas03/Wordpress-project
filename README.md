@@ -17,14 +17,19 @@ This project is suitable for internship submissions, college projects, or beginn
 - 🌐 100% Free Setup – No premium plugins or paid hosting required
 
 **⚙️ Tools & Technologies**
-Tool	Description
-WordPress	CMS platform used for the project
-Forminator Plugin	Used for building forms and CRUD operations
-InfinityFree Hosting	Free web hosting platform
-Softaculous Installer	Used to install WordPress easily
-MySQL (via WordPress)	Database for storing inventory data
-🏗️ Setup Instructions
-1️⃣ Install WordPress (Free Hosting)
+
+- WordPress	CMS platform used for the project
+- Forminator Plugin	Used for building forms and CRUD operations
+- InfinityFree Hosting	Free web hosting platform
+- Softaculous Installer	Used to install WordPress easily
+- MySQL (via WordPress)	Database for storing inventory data
+- 🏗️ Setup Instructions
+
+**Project link**
+
+https://kanya.rf.gd/wp-admin/
+
+**1️⃣ Install WordPress (Free Hosting)**
 
 Go to https://www.infinityfree.net/
 
