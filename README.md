@@ -9,12 +9,12 @@ This project is suitable for internship submissions, college projects, or beginn
 
 **🧩 Features**
 
-✅ Add Inventory Items – Add new items through a frontend form
-👀 View Inventory Items – Display all stored inventory data in a table format
-✏️ Update Inventory Items – Edit or update existing item details
-❌ Delete Inventory Items – Remove any item from the list
-💾 Fully Database-Driven – Data stored automatically in WordPress database
-🌐 100% Free Setup – No premium plugins or paid hosting required
+- ✅ Add Inventory Items – Add new items through a frontend form
+- 👀 View Inventory Items – Display all stored inventory data in a table format
+- ✏️ Update Inventory Items – Edit or update existing item details
+- ❌ Delete Inventory Items – Remove any item from the list
+- 💾 Fully Database-Driven – Data stored automatically in WordPress database
+- 🌐 100% Free Setup – No premium plugins or paid hosting required
 
 **⚙️ Tools & Technologies**
 Tool	Description
