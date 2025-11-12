@@ -1,4 +1,5 @@
-**WordPress Inventory Management System **
+
+
 **📘 Overview**
 
 The WordPress Inventory Management System is a simple web-based project built entirely with WordPress and free plugins.
