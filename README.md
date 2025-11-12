@@ -1,4 +1,4 @@
-#WordPress Inventory Management System
+# CareWare Inventory Management System 
 
 **📘 Overview**
 
