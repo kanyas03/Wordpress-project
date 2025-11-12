@@ -100,6 +100,7 @@ Enable Delete action in Forminator’s entry settings.
 When “Delete” is clicked, the item will be removed from the database and table.
 
 **🧾 Project Structure**
+
 WordPress Inventory Management/
 │
 ├── wp-content/
